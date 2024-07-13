@@ -93,7 +93,7 @@ print(reflections)
 #  'me': 'you'
 #  }
 
-#custom-reflection dict
+#custom-reflection dict (user-defined)
 my_dummy_reflections = {
     "go": "gone",
     "hello": "hey there"
